@@ -5,7 +5,7 @@ import Footer from './Component/Footer';
 import { Route } from 'react-router-dom';
 import { Home } from './Component/Pages/Home';
 import { Quiz } from './Component/Pages/Quiz';
-import { Result } from './Component/Pages/Result';
+import { Result } from './Component/Pages/NoPage';
 import { useState } from 'react';
 import axios from 'axios';
 

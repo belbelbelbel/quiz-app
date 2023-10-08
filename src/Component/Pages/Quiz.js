@@ -59,8 +59,6 @@ export const Quiz = ({ score, setscore, questions, setquestions, name }) => {
         > Go to home page</Button>
       </div>
       }
-        
-       
     </div>
   
   )
